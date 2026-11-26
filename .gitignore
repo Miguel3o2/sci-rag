@@ -1,0 +1,24 @@
+# Downloaded / generated data
+data/raw/*
+data/chunks/*
+data/index/
+data/articles.jsonl
+experiments/*.json
+!**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local env / editor
+.env
+.env.*
+.idea/
+.vscode/
+
+# Stray nested repository (accidental "sci rsg" folder)
+sci rsg/

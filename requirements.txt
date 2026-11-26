@@ -1,0 +1,9 @@
+# Install a CUDA build of torch first: https://pytorch.org/get-started/locally/
+lxml
+numpy
+pandas
+pyarrow
+bm25s
+sentence-transformers
+tqdm
+pytest
